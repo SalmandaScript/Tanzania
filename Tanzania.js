@@ -112,6 +112,15 @@ $("h5").animate({
 color: "teal"
 });
 });
+//previous page 
+function sudan(){
+open("https://salmandascript.github.io/Sudan/Sudan.html");
+}
+
+//previous page 
+function theGambia(){
+open("https://salmandascript.github.io/TheGambia/TheGambia.html");
+}
 
 //quizz questions code 
 function checkAnswer()
